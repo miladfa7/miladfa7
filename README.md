@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi There 👋 , I'm Milad Farzalizadeh
 
-<!--
-**miladfa7/miladfa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Milad's github stats](https://github-readme-stats.vercel.app/api?username=miladfa7&show_icons=true&theme=solarized-dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**You can also follow me on:**
+- [Kaggle](https://www.kaggle.com/miladfa7/)
+- [Huggingface](https://huggingface.co/miladfa7)
+- [Linkedin](https://www.linkedin.com/in/milad-farzalizadeh/)
+
+
+<!-- 🔎 &nbsp;&nbsp;  I am currently work at TVConal, Singapore as Deep Learning Engineer (Full-Time). -->
+
+**My Interests:** `Computer Vision` `Natural Language Processing`, `Deep Learning`
