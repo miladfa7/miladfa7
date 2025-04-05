@@ -19,8 +19,6 @@
 
 <!-- 🔎 &nbsp;&nbsp;  I am currently work at TVConal, Singapore as Deep Learning Engineer (Full-Time). -->
 
-**My Interests:** `Computer Vision` `Natural Language Processing`, `Deep Learning`
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Python -->
@@ -89,3 +87,12 @@
   </a>
 
 </p>
+
+
+## 🚀 My Interests
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-gray?style=for-the-badge&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-gray?style=for-the-badge&logoColor=white)
+![MLOps](https://img.shields.io/badge/Deep%20Learning-gray?style=for-the-badge&logoColor=white)
+
+
